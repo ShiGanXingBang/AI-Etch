@@ -8,3 +8,5 @@ Yao Z, Hu Z, Lai P, Qin F, Wang W, Wu Z, Wang L, Shao H, Li Y, Li Z, Liu Z. Etch
 The following command will train the network and show some test results.
 
 python main.py
+
+test
