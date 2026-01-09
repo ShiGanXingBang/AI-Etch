@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
-path = 'test10.bin'
+path = './CRNN/1-100/test2.bin'
 height = 500
 # 1-100组height=500，101-200组height=700
 width = 200
